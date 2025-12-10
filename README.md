@@ -1,2 +1,2 @@
-# Industrialist_guide_api
+# Industrialist guide api
 Industrialist guide API permite a tomada de decisões em relação a linhas de produção no jogo Industrialist, de Mamytema Studios, no Roblox. Além disso contém uma WIKI personalizada e baseada na oficial, dados do jogo e da comunidade do discord.   O objetivo é simplificar dados complexos acerca dos tópicos principais do jogo: Funcionamento das máquinas, ratios e calculos gerais de produção. Junto com a possibilidade de checar algum fato com a wiki.
